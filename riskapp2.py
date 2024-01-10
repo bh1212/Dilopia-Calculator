@@ -6,6 +6,9 @@ import numpy as np
 
 col1, col2, col3,col4,col5,col6 = st.columns([1,1,5,3,1,1])
 
+[theme]
+backgroundColor="#FFFFFF"
+
 with col3:
     st.text('')
     st.image("RADAMS.jpg") 
