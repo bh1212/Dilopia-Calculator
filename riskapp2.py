@@ -5,6 +5,8 @@ import numpy as np
 
 # Set the background color using set_page_config
 st.set_page_config(
+    page_icon="🧾"
+    layout="wide", 
     background_color="#ffffff"  # Set the background color to white (#ffffff)
 )
 
