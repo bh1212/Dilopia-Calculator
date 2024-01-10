@@ -10,7 +10,7 @@ with col3:
     st.text('')
     st.image("/Users/aminghobar/Desktop/RADAMS.png") 
 with col4:
-    st.image("RADAMS.png")
+    st.image("RADAMS.jpg")
 
 st.header('')
 
