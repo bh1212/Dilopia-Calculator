@@ -8,9 +8,9 @@ col1, col2, col3,col4,col5,col6 = st.columns([1,1,5,3,1,1])
 
 with col3:
     st.text('')
-    st.image("/Users/aminghobar/Desktop/RADAMS.png") 
+    st.image("RADAMS.jpg") 
 with col4:
-    st.image("RADAMS.jpg")
+    st.image("John H Logo .jpeg")
 
 st.header('')
 
