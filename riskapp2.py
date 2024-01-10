@@ -3,13 +3,13 @@ import pandas as pd
 import math 
 import numpy as np
 
-
-col1, col2, col3,col4,col5,col6 = st.columns([1,1,5,3,1,1])
-
 # Set the background color using set_page_config
 st.set_page_config(
     background_color="#ffffff"  # Set the background color to white (#ffffff)
 )
+
+col1, col2, col3,col4,col5,col6 = st.columns([1,1,5,3,1,1])
+
 
 with col3:
     st.text('')
